@@ -1,7 +1,7 @@
-const append = ['Milo', 'Otis', 'Gerfield']
-const prepend = ['Milo', 'Otis', 'Gerfield']
-const removeLast = ['Milo', 'Otis', 'Gerfield']
-const removeFirst = ['Milo', 'Otis', 'Gerfield']
+const append = ['Milo', 'Otis', 'Garfield']
+const prepend = ['Milo', 'Otis', 'Garfield']
+const removeLast = ['Milo', 'Otis', 'Garfield']
+const removeFirst = ['Milo', 'Otis', 'Garfield']
 
 append.push('Odie')
 prepend.unhshift('Odie')
